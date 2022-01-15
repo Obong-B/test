@@ -1,4 +1,8 @@
 addhel
 edited in local
 third
+<<<<<<< HEAD
 remote
+=======
+local
+>>>>>>> c68d7e9 (local)
