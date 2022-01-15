@@ -6,6 +6,7 @@ remote
 =======
 local
 >>>>>>> c68d7e9 (local)
+re local
 
 
 retest Remote
